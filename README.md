@@ -1,29 +1,17 @@
-<h2 align="left">Hi 👋! Im Kwanek!</h2>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/BEBopBnhjVEAAAAj/peach-and-goma-peach-goma.gif"  />
+# 💫 About Me:
+🕑I spent a 7 hours per day for a work because i really like it.<br>🌱I'm actually learning: Python, Java<br>🔗Most used langs in my projects is: SkriptLang<br>👤I have knowledge of English at B2 level (CEFR)
 
 
-###
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/939906034238103673) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kwanekk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kwanek01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jamkwanek8194) 
 
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/39464898?s=200&v=4" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://camo.githubusercontent.com/3e4118f27767322e9246daeaad4c3a96dad62c79bcae01b9788b4a753b720883/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f332f33302f4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672f33303070782d4a6176615f70726f6772616d6d696e675f6c616e67756167655f6c6f676f2e7376672e706e67" height="30" alt="java logo"  />
-</div>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=KwanekDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kwanek) 
 
   
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="(https://discord.com/users/939906034238103673)[[https://discord.com/users/939906034238103673](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)]" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
