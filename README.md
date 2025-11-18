@@ -36,10 +36,3 @@ Open source contribution, looking for work
 
 </div>
 
----
-⭐️ From [Kwanek](https://github.com/KwanekDev)
-
-<!-- Profile views counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KwanekDev/count.svg" alt="Visitor Count" />
-</div>
