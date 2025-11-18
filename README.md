@@ -1,6 +1,6 @@
 ## Hi, I’m kwanek
 
-If you want to reach me, write to me on Discord:  
+If you want to reach me, dm to me on Discord:  
 **ID:** 1381307304846037044  
 **Username:** kw4nek
 
