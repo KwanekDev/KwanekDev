@@ -1,57 +1,73 @@
-<div align="center">
+# Kwanek
 
-# ✨ Kwanek ✨
-
-<p><em>Front-End developer.</em></p>
-
-<hr>
-
-</div>
+```typescript
+const profile = {
+  name: "Kwanek",
+  bio: "Front-End developer.",
+  currentWork: "Working on building an portfolio for this moments.",
+  learning: "-",
+  interests: "Open source contribution,looking for work",
+  skills: [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Python",
+    "Java"
+  ],
+}
+```
 
 ## 🔭 I'm currently working on
 
-<div align="center"><p>Working on building an portfolio for this moments.</p></div>
+Working on building an portfolio for this moments.
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>-</p></div>
+-
 
 ## 👀 I'm interested in
 
-<div align="center"><p>Open source contribution, looking for work</p></div>
+Open source contribution, looking for work
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-**🎨 Frontend**
-
-`HTML5` • `CSS3`
-
-**💬 Languages**
-
-`JavaScript` • `Python` • `Java`
-
-</div>
+```json
+{
+  "frontend": [
+    "HTML5",
+    "CSS3"
+  ],
+  "languages": [
+    "JavaScript",
+    "Python",
+    "Java"
+  ]
+}
+```
 
 ## 🌐 Socials
 
-<div align="center">
+```javascript
+const socials = {
+  github: "KwanekDev",
+}
+```
 
-<a href="https://github.com/KwanekDev"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
-
+<div>
+<a href="https://github.com/KwanekDev"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
 </div>
 
 ## 📫 How to reach me
 
-<div align="center">
+```javascript
+const contact = {
+  email: "kwanek.biznes@gmail.com",
+}
+```
 
-**Email:** kwanek.biznes@gmail.com
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
 
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+process.exit(0); // Until next time 👋
+```
