@@ -1,17 +1,57 @@
-# 💫 About Me:
-🕑I spent a 7 hours per day for a work because i really like it.<br>🌱I'm actually learning: Python, Java<br>🔗Most used langs in my projects is: SkriptLang<br>👤I have knowledge of English at B2 level (CEFR)
+<div align="center">
 
+# ✨ Kwanek ✨
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/939906034238103673) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kwanekk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kwanek01) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jamkwanek8194) 
+<p><em>Front-End developer.</em></p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<hr>
 
----
-[![](https://visitcount.itsvg.in/api?id=KwanekDev&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kwanek) 
+## 🔭 I'm currently working on
 
-  
+<div align="center"><p>Working on building an portfolio for this moments.</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>-</p></div>
+
+## 👀 I'm interested in
+
+<div align="center"><p>Open source contribution, looking for work</p></div>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**🎨 Frontend**
+
+`HTML5` • `CSS3`
+
+**💬 Languages**
+
+`JavaScript` • `Python` • `Java`
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://github.com/KwanekDev"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** kwanek.biznes@gmail.com
+
+</div>
+
+<div align="center">
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
+</div>
