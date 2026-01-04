@@ -35,6 +35,8 @@ Jeśli chcesz porozmawiać o stronie dla swojego lokalu lub masz pytania dotycz�
 
 - **Useme profile:** [Kliknij](https://useme.com/pl/roles/contractor/kwanek,587644/)
 
+- **Mail kontaktowy:** `kwanek.bussines@gmail.com`
+
 ---
 
 Dzięki za odwiedzenie mojego profilu!
