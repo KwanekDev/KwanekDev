@@ -1,6 +1,6 @@
 # Cześć, jestem Kwanek 👋
 
-Tworzę **proste i szybkie strony internetowe dla małych lokali gastronomicznych** — takich jak restauracje, pizzerie, burgerownie, food trucki.
+Tworzę **proste i szybkie strony internetowe dla małych lokali gastronomicznych** - takich jak restauracje, pizzerie, burgerownie, food trucki.
 
 Skupiam się na stronach, które są:
 - czytelne dla klientów
