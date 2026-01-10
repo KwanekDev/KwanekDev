@@ -23,7 +23,9 @@ Na tym profilu buduję swoje portfolio oparte na realnych i koncepcyjnych projek
 - HTML5  
 - CSS3  
 - JavaScript  
-- React  
+- React
+- Wordpress
+- Elementor
 
 ---
 
